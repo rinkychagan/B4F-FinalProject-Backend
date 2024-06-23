@@ -1,0 +1,306 @@
+[{
+  "_id": {
+    "$oid": "664736a42f09c2ab72d7bc2e"
+  },
+  "name": "Mirwais Faizi",
+  "email": "mirwais.f@yahoo.com",
+  "password": "$2a$12$u.CXawZOFYof4ATQPlLliO40vSEBDrcXPgTj1QO50HoCxJeoh7sXe",
+  "__v": 0,
+  "average": null,
+  "description": "Seeking adventurous souls to join me on a journey filled with discovery, laughter, and unforgettable experiences. Let's explore the world together!",
+  "location": "Belo Horizonte, Brasil",
+  "experience": null,
+  "languages": [
+    "Portuguese",
+    "English"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66489b9a1197fe6ad7e7c302"
+  },
+  "name": "Bazgul Forsa",
+  "email": "bazgul@yahoo.com",
+  "role": "user",
+  "password": "$2a$12$lbx8jM8KtTcXjkh2nItAJ.VgzqNN5u.NLw7.fO9URZay1fQCE./S.",
+  "passwordChangedAt": {
+    "$date": "2014-01-09T00:00:00.000Z"
+  },
+  "__v": 0,
+  "location": "Lisboa, Portugal",
+  "average": null,
+  "experience": null,
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "description": "Looking for travel companions eager to embark on new adventures. Join me as we create memories that will last a lifetime.",
+  "photo": "user-5.jpg"
+},
+{
+  "_id": {
+    "$oid": "66489bfeee7273bc0eb58a1d"
+  },
+  "name": "Kamil Faizi",
+  "email": "kamil@yahoo.com",
+  "role": "admin",
+  "password": "$2a$12$33ixO3LKJ0uSNj9MPNOESu56yCeTh8g7U0XU3NokEphLWFv2V.gQW",
+  "passwordChangedAt": {
+    "$date": "2024-05-19T07:18:52.691Z"
+  },
+  "__v": 0,
+  "active": true,
+  "location": "Madrid, Spain",
+  "average": null,
+  "experience": null,
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "description": "Calling all wanderlust seekers! Let's forge new paths, explore hidden gems, and share the joy of travel together.",
+  "photo": "user-18.jpg"
+},
+{
+  "_id": "5c8a1dfa2f8fb814b56fa181",
+  "name": "Lourdes Browning",
+  "email": "loulou@example.com",
+  "role": "user",
+  "active": true,
+  "photo": "user-2.jpg",
+  "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S..",
+  "location": "Vancover, Canada",
+  "average": null,
+  "experience": null,
+  "languages": [
+    "Hindi",
+    "English",
+    "Russian"
+  ],
+  "description": "Are you ready to wander off the beaten path? Join me on an epic travel journey where every day brings new discoveries."
+},
+{
+  "_id": "5c8a211f2f8fb814b56fa188",
+  "name": "Cristan Vega",
+  "email": "chris@example.com",
+  "role": "user",
+  "active": true,
+  "photo": "user-9.jpg",
+  "password": "$2a$12$r7/jtdWtzNfrfC7zw3uS.eDJ3Bs.8qrO31ZdbMljL.lUY0TAsaAL6",
+  "location": "Londres, England",
+  "average": null,
+  "experience": null,
+  "languages": [
+    "English"
+  ],
+  "description": "Seeking adventurous spirits to join me on a journey of discovery and cultural immersion. Let's explore the world together!"
+},
+{
+  "_id": "5c8a21d02f8fb814b56fa189",
+  "name": "Steve T. Scaife",
+  "email": "steve@example.com",
+  "role": "guide",
+  "active": true,
+  "photo": "user-5.jpg",
+  "password": "$2a$12$q7v9dm.S4DvqhAeBc4KwduedEDEkDe2GGFGzteW6xnHt120oRpkqm",
+  "location": "Paris, France",
+  "average": 3,
+  "experience": 4,
+  "languages": [
+    "German ",
+    "English"
+  ],
+  "description": "Dedication, expertise, and passion define my tours. Join me to explore the most fascinating destinations with an authentic and detailed perspective."
+},
+{
+  "_id": "5c8a21f22f8fb814b56fa18a",
+  "name": "Aarav Lynn",
+  "email": "aarav@example.com",
+  "role": "guide",
+  "active": true,
+  "photo": "user-11.jpg",
+  "password": "$2a$12$lKWhzujFvQwG4m/X3mnTneOB3ib9IYETsOqQ8aN5QEWDjX6X2wJJm",
+  "location": "Tokyo, Japan",
+  "average": 5,
+  "experience": 4,
+  "languages": [
+    "English ",
+    "Mandarin\n"
+  ],
+  "description": "Specializing in creating magical moments, as your tour guide, I'll provide a unique journey filled with discoveries and delightful surprises. Come explore the world with me!"
+},
+{
+  "_id": "5c8a22c62f8fb814b56fa18b",
+  "name": "Miyah Myles",
+  "email": "miyah@example.com",
+  "role": "guide",
+  "active": true,
+  "photo": "user-12.jpg",
+  "password": "$2a$12$.XIvvmznHQSa9UOI639yhe4vzHKCYO1vpTUZc4d45oiT4GOZQe1kS",
+  "location": "New York City, USA",
+  "average": {
+    "$numberDecimal": "4.5"
+  },
+  "experience": 4,
+  "languages": [
+    "French"
+  ],
+  "description": "With years of experience and deep local knowledge, I offer personalized tours that showcase the true spirit and culture of every place you visit."
+},
+{
+  "_id": "5c8a23412f8fb814b56fa18c",
+  "name": "Ben Hadley",
+  "email": "ben@example.com",
+  "role": "guide",
+  "active": true,
+  "photo": "user-13.jpg",
+  "password": "$2a$12$D3fyuS9ETdBBw5lOwceTMuZcDTyVq28ieeGUAanIuLMcSDz6bpfIe",
+  "average": 3,
+  "description": "I'm a passionate tour guide who loves unveiling the stories and secrets of the most amazing destinations. Let me turn your journey into an unforgettable experience.",
+  "language:": [
+    "portugues",
+    "ingles"
+  ],
+  "location": "Sydney, Australia",
+  "experience": 4,
+  "languages": [
+    "English",
+    "Portuguese"
+  ]
+},
+{
+  "_id": "5c8a23c82f8fb814b56fa18d",
+  "name": "Laura Wilson",
+  "email": "laura@example.com",
+  "role": "guide",
+  "active": true,
+  "photo": "user-4.jpg",
+  "password": "$2a$12$VPYaAAOsI44uhq11WbZ5R.cHT4.fGdlI9gKJd95jmYw3.sAsmbvBq",
+  "location": "Cape Town, South Africa",
+  "average": null,
+  "experience": null,
+  "languages": [
+    "Swahili",
+    "English"
+  ],
+  "description": "Looking for like-minded travelers to guide in the excitement of exploring new landscapes, tasting local flavors, and embracing diverse cultures."
+},
+{
+  "_id": "5c8a23de2f8fb814b56fa18e",
+  "name": "Max Smith",
+  "email": "max@example.com",
+  "role": "user",
+  "active": true,
+  "photo": "user-15.jpg",
+  "password": "$2a$12$l5qamwqcqC2NlgN6o5A5..9Fxzr6X.bjx/8j3a9jYUHWGOL99oXlm",
+  "location": "Bangkok, Thailand",
+  "average": null,
+  "experience": null,
+  "languages": [
+    "English\nThai"
+  ],
+  "description": "Calling all explorers! Join me in discovering the hidden treasures and breathtaking vistas that await us around the globe."
+},
+{
+  "_id": "5c8a24282f8fb814b56fa18f",
+  "name": "Rafael Kirkland",
+  "email": "isabel@example.com",
+  "role": "user",
+  "active": true,
+  "photo": "user-17.jpg",
+  "password": "$2a$12$IUnwPH0MGFeMuz7g4gtfvOll.9wgLyxG.9C3TKlttfLtCQWEE6GIu",
+  "location": "Istanbul, Turkey",
+  "average": null,
+  "experience": null,
+  "languages": [
+    "Hindi ",
+    "Arabic"
+  ],
+  "description": "Embark on a transformative travel experience with me, where every step taken is a new chapter in our shared adventure."
+},
+{
+  "_id": "5c8a24402f8fb814b56fa190",
+  "name": "Alexander Jones",
+  "email": "alex@example.com",
+  "role": "guide",
+  "active": true,
+  "photo": "user-14.jpg",
+  "password": "$2a$12$NnclhoYFNcSApoQ3ML8kk.b4B3gbpOmZJLfqska07miAnXukOgK6y",
+  "location": "Dubai, United Arab Emirates",
+  "average": null,
+  "experience": null,
+  "languages": [
+    "English",
+    "French",
+    "Arabic"
+  ],
+  "description": "\"Calling all wanderers! Join me on a quest to explore the beauty of our destination and beyond, where every day promises a new adventure."
+},
+{
+  "_id": "5c8a245f2f8fb814b56fa191",
+  "name": "Eduardo Hernandez",
+  "email": "edu@example.com",
+  "role": "user",
+  "active": true,
+  "photo": "user-19.jpg",
+  "password": "$2a$12$uB5H1OxLMOqDYTuTlptAoewlovENJvjrLwzsL1wUZ6OkAIByPPBGq",
+  "location": "Moscow, Russia",
+  "average": null,
+  "experience": null,
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "description": "Searching for travel enthusiasts who are ready to dive into authentic experiences and embrace the thrill of the unknown."
+},
+{
+  "_id": "5c8a24822f8fb814b56fa192",
+  "name": "Rinky Riley",
+  "email": "john@example.com",
+  "role": "user",
+  "active": true,
+  "photo": "user-14.jpg",
+  "password": "$2a$12$11JElTatQlAFo1Obw/dwd..vuVmQyYS7MT14pkl3lRvVPjGA00G8O",
+  "location": "Cairo, Egypt",
+  "average": null,
+  "experience": null,
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "description": "Searching for companions who share a passion for travel and a desire to embrace diverse cultures."
+},
+{
+  "_id": "5c8a24a02f8fb814b56fa193",
+  "name": "Lisa Saito",
+  "email": "lisa@example.com",
+  "role": "user",
+  "active": true,
+  "photo": "user-20.jpg",
+  "password": "$2a$12$uA9FsDw63v6dkJKGlLQ/8ufYBs8euB7kqIQewyYlZXU5azEKeLEky",
+  "location": "Kyoto, Japan",
+  "average": null,
+  "experience": null,
+  "languages": [
+    "English"
+  ],
+  "description": "Backpacking through bustling cities or trekking through remote landscapes, I love to immerse myself in new cultures."
+},
+{
+  "_id": {
+    "$oid": "665cddecade0a97ca7321fa2"
+  },
+  "name": "Isabella da Paz",
+  "email": "isinha@example.com",
+  "active": true,
+  "role": "user",
+  "password": "$2a$12$WU5.w9j9XPS59RrfSb5HHeuutyi8j40sfFsvMXMkmv4UFdkKRCsaO",
+  "__v": 0,
+  "languages": [
+    "Portuguese",
+    "Chinese"
+  ],
+  "description": "Hey everyone! I'm excited to geek out over Chinese culture with you all!  Hit me up if you're down for adventures (and good food!) on this trip. Let's make it epic!",
+  "photo": "user-3.jpg",
+  "location": "Tocantins, Brazil"
+}]
